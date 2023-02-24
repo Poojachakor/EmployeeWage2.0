@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            PartTimeWages.PartTimeWageCheck();
+            SwitchCase.EmployeeWageSwitchCase();
             
 
         }
